@@ -1,3 +1,4 @@
+![logo](https://github.com/Sagar8902/Sagar8902/blob/main/github-header-image.png)
 # 💫 About Me:
 ➡️ I am a data analyst with 2 years of experience.<br>👉 Now, I'm working on some Python projects.<br>🎯I'm currently learning machine learning.<br>👋I'm looking to collaborate on some Ml/AI projects.<br>😉I'm curious to learn new. <br>
 
